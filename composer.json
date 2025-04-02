@@ -1,0 +1,12 @@
+{
+  "name": "rahul/phpiggy",
+  "description": "A PHP Project to tack expenses.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
