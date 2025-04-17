@@ -1,0 +1,1 @@
+<input value=<?php echo e($_token); ?> name="_token" type="hidden" />
